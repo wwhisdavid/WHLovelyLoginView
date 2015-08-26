@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF1E4994-25F1-443B-82BD-4C0A0C415E84</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WHLovelyLoginViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B492F9C29EE2B0AF00092F3DBFE7934C872F668D</key>
+		<string>https://github.com/wwhisdavid/WHLovelyLoginView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WHLovelyLoginViewDemo/WHLovelyLoginViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B492F9C29EE2B0AF00092F3DBFE7934C872F668D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wwhisdavid/WHLovelyLoginView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B492F9C29EE2B0AF00092F3DBFE7934C872F668D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B492F9C29EE2B0AF00092F3DBFE7934C872F668D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WHLovelyLoginView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
